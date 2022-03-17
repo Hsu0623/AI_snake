@@ -2,5 +2,5 @@
 
 using Q-learning 
 
-詳細內容
+more information
 https://hackmd.io/SaDcf7sGRCePsHyN-ZRSsw?view
